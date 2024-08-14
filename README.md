@@ -1,1 +1,1 @@
-# Classifica-odeSentimentos_SpaCy
+# ClassificacaoDeSentimentos_SpaCy
